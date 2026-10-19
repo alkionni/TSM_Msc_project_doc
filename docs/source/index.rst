@@ -1,6 +1,6 @@
 .. PINNs documentation master file, created by sphinx-quickstart on Sun Sep 20 12:39:03 2026. You can adapt this file completely to your liking, but it should at least contain the root `toctree` directive.
 
-PINNs documentation
+Transient Surrogate Model documentation
 ===================
 
 .. Add your content using ``reStructuredText`` syntax. See the `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_documentation for details.
