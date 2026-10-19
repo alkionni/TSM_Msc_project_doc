@@ -10,7 +10,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath('../../'))  # Points back to the repo root
 
-project = 'PINNs'
+project = 'Transient Surrogate Model'
 copyright = '2026, Isidora Soukou'
 author = 'Isidora Soukou'
 release = '1.0.0'
